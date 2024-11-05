@@ -36,7 +36,7 @@ My GitHub Profile!
 ![GitHub stars](https://img.shields.io/github/stars/Anakhashaji?label=Stars&style=social)
 
 ## GitHub Stats
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+[![AnakhaShaji GitHub activity graph]]([https://github.com/rishavchanda](https://github.com/Anakhashaji))
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anakhashaji&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anakha" /></p>
 
