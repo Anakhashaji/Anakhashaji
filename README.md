@@ -42,4 +42,4 @@ My GitHub Profile!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anakhashaji&show_icons=true&locale=en&theme=tokyonight" alt="anakha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anakhashaji&&theme=tokyonight" alt="rishavchanda" /></p>-->
