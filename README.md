@@ -33,7 +33,7 @@ My GitHub Profile!
 
 ![GitHub followers](https://img.shields.io/github/followers/Anakhashaji?label=Followers&style=social)
 
-![GitHub stars](https://img.shields.io/github/stars/Akshaymv916?label=Stars&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Anakhashaji?label=Stars&style=social)
 
 ## GitHub Stats
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
