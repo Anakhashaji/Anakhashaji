@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Python,Django , Ml,DeepLearning**
 
 - 📫 How to reach me **anakhashaji1998@gmail.com**
 
